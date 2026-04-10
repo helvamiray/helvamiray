@@ -1,4 +1,4 @@
-# 💫 About Me:
+![Miray's Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=300&section=header&text=Miray%20Helva&fontSize=90&animation=fadeIn)# 💫 About Me:
 Software Engineering Student | IoT & Full-Stack Developer
 
 
