@@ -1,6 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=300&section=header&text=Miray%20Helva&fontSize=80&animation=fadeIn" />
-</p># 💫 About Me:
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=280&section=header&text=Miray%20Helva&fontSize=80&animation=fadeIn" />
+</p>
+
+# 💫 About Me:
+High-energy Software Engineer in the making! ⚡<br><br>When I'm not coding or designing solar-powered IoT systems, you can find me exploring nature or pursuing my passion for high-action activities. I believe that discipline in life leads to discipline in code.<br><br>🔭 Currently working on: Enhancing my "Smart Home Ecosystem" project.<br>💬 Ask me about: IoT, Robotics, or my journey from programming graduate to engineering student.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miray-helva-b19952295) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/wevx85s3ECs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirayhelva15@icloud.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+# 📊 GitHub Stats:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=helvamiray&theme=blue_navy&show_icons=true&hide_border=false" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helvamiray&theme=blue_navy&layout=compact&hide_border=false" width="300" />
+</p>
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=helvamiray&icon=6&color=3" />
+</p> About Me:
 High-energy Software Engineer in the making! ⚡<br><br>When I'm not coding or designing solar-powered IoT systems, you can find me exploring nature or pursuing my passion for high-action activities. I believe that discipline in life leads to discipline in code.<br><br>🔭 Currently working on: Enhancing my "Smart Home Ecosystem" project.<br>💬 Ask me about: IoT, Robotics, or my journey from programming graduate to engineering student.
 
 
