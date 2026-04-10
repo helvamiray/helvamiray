@@ -1,4 +1,6 @@
-# 💫 About Me:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=300&section=header&text=Miray%20Helva&fontSize=80&animation=fadeIn" />
+</p># 💫 About Me:
 High-energy Software Engineer in the making! ⚡<br><br>When I'm not coding or designing solar-powered IoT systems, you can find me exploring nature or pursuing my passion for high-action activities. I believe that discipline in life leads to discipline in code.<br><br>🔭 Currently working on: Enhancing my "Smart Home Ecosystem" project.<br>💬 Ask me about: IoT, Robotics, or my journey from programming graduate to engineering student.
 
 
